@@ -2,6 +2,8 @@
 
 This is a from-scratch PyTorch reimplementation of the Transformer architecture from [Vaswani et al., 2017](https://arxiv.org/abs/1706.03762), trained on the Multi30k English→German translation dataset. I Built it as a learning project where every core component (positional encoding, scaled dot-product attention, multi-head attention, encoder, decoder) is implemented from first principles, with no use of `torch.nn.Transformer` or similar pre-built modules.
 
+📄 **[Read the full write-up on Medium](https://medium.com/@jatinvats.articles/i-built-a-transformer-from-scratch-and-this-is-what-i-learned-ff618622da94?sharedUserId=jatinvats.articles)**
+
 ## Results
 
 - **BLEU score: 22.72** (test set, greedy decoding, epoch 10 checkpoint)
