@@ -1,0 +1,160 @@
+Epoch 1
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge junge junge junge junge junge in einem kleinen Mädchen , während ein Foto .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau in einem blauen Oberteil spielt .
+
+Epoch 2
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Erwachsene sind im Freien in der Nähe von Kindern .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau in der Küche .
+
+Epoch 3
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer , die draußen neben einem kleinen Kindern .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau in der Küche .
+
+Epoch 4
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer , die draußen in der Nähe von vielen vielen vielen vielen vielen vielen verschiedenen nen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 5
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer , die draußen in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 6
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer sind draußen in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 7
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer , die draußen in der Nähe vielen verschiedenen Männern .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 8
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer sind draußen in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 9
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer , die in der Nähe einer Büschen sind , sind draußen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 10
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer sind draußen in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 11
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind im Freien in der Nähe viel Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 12
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer sind draußen in der Nähe vielen Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 13
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind draußen in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 14
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer sind im Freien in der Nähe von vielen Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 15
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt ein Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind draußen in der Nähe zahl reichen Bü sche .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 16
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt ein Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge Männer sind draußen in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 17
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt ein Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind im Freien in der Nähe viel er Bü sche .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 18
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt ein Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind im Freien in der Nähe viel er Bü sche .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 19
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt auf einem Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind im Freien in der Nähe viel er Bü sche .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+
+Epoch 20
+  EN: A man is riding a bicycle.
+  DE: Ein Mann fährt ein Fahrrad .
+  EN: Two young, White males are outside near many bushes.
+  DE: Zwei junge weiße Männer sind im Freien in der Nähe von Büschen .
+  EN: A woman is cooking in the kitchen.
+  DE: Eine Frau kocht in der Küche .
+

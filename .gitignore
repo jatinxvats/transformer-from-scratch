@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/*.pt
+data/raw/*.en
+data/raw/*.de
+data/tokenizer/*.json
+.DS_Store
+!checkpoints/epoch_10.pt
